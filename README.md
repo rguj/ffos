@@ -1,6 +1,6 @@
 # Self-Service Fast Food Ordering System
 
-This repository contains a working demonstration of a real-time ordering workflow system for a fast-food restaurant, intended for Web Programming students as a capstone group exercise. It also serves as an introductory bridge to System Analysis and Design (SAD).
+This repository contains a working demonstration of a real-time ordering workflow system for a fast-food restaurant, intended for Web Programming students as a capstone group exercise.
 
 ## System Overview
 The system simulates multiple terminals:
