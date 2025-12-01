@@ -64,10 +64,6 @@ Apply enhancements through functional code modifications. UI or feature improvem
 - Work should be distributed and traceable
 - Pull requests encouraged
 
-## Instructor Notes
-The system is intentionally imperfect for students to evaluate.
-Students must apply SAD thinking: Analyze then Improve.
-
 ## License
 Educational use only. Not for commercial deployment.
 
