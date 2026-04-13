@@ -21,11 +21,15 @@ The system simulates multiple terminals:
 1. Fork or clone this repository
 2. Import the SQL file (ffos.sql) to MySQL database
 3. Set database credentials in config.php
-4. Run WebSocket server: `C:\xampp\php\php.exe ws-server.php`
-5. Access system via browser using `http://localhost/ffos/`
+4. Run CMD in the project folder then run WebSocket server with this command: `C:\xampp\php\php.exe ws-server.php`
+5. Access system via web browser using `http://localhost/ffos/`
+
+## Admin Access
+One Super Admin exists in the database seed.
+Username: `admin` | Password: `admin123`
 
 ## Terminal Access
-Each terminal page requires a valid 6-digit PIN code generated in the Admin Panel. One Super Admin exists in the database seed.
+Each terminal page requires a valid 6-digit PIN code generated in the Admin Panel.
 
 ## Group Tasks and Requirements
 
