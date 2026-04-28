@@ -25,7 +25,7 @@ The system simulates multiple terminals:
 5. Access system via web browser using `http://localhost/ffos/`
 
 ## Admin Access
-One Super Admin exists in the database seed.
+One admin account exists in the database seed.
 Username: `admin` | Password: `admin123`
 
 ## Terminal Access
